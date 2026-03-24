@@ -1,0 +1,354 @@
+What is the capital of France?
+A) London
+B) Paris
+C) Berlin
+D) Madrid
+B
+Which planet is known as the Red Planet?
+A) Earth
+B) Mars
+C) Venus
+D) Jupiter
+B
+What is the chemical symbol for water?
+A) H2O
+B) CO2
+C) O2
+D) NaCl
+A
+Who wrote "Romeo and Juliet"?
+A) Charles Dickens
+B) William Shakespeare
+C) Mark Twain
+D) Jane Austen
+B
+What is the largest mammal in the world?
+A) Elephant
+B) Blue Whale
+C) Giraffe
+D) Dolphin
+B
+What is the square root of 64?
+A) 6
+B) 7
+C) 8
+D) 9
+C
+Which country is known as the Land of the Rising Sun?
+A) China
+B) Japan
+C) India
+D) South Korea
+B
+What is the smallest prime number?
+A) 1
+B) 2
+C) 3
+D) 5
+B
+Who painted the Mona Lisa?
+A) Vincent van Gogh
+B) Pablo Picasso
+C) Leonardo da Vinci
+D) Claude Monet
+C
+What is the hardest natural substance on Earth?
+A) Gold
+B) Diamond
+C) Iron
+D) Quartz
+B
+What is the largest ocean on Earth?
+A) Atlantic Ocean
+B) Indian Ocean
+C) Arctic Ocean
+D) Pacific Ocean
+D
+Which gas do plants absorb from the atmosphere?
+A) Oxygen
+B) Carbon Dioxide
+C) Nitrogen
+D) Hydrogen
+B
+What is the boiling point of water in Celsius?
+A) 50°C
+B) 75°C
+C) 100°C
+D) 120°C
+C
+Who discovered gravity?
+A) Albert Einstein
+B) Isaac Newton
+C) Galileo Galilei
+D) Nikola Tesla
+B
+What is the currency of Japan?
+A) Yen
+B) Dollar
+C) Euro
+D) Peso
+A
+Which element has the atomic number 1?
+A) Helium
+B) Hydrogen
+C) Oxygen
+D) Carbon
+B
+What is the longest river in the world?
+A) Amazon River
+B) Nile River
+C) Yangtze River
+D) Mississippi River
+B
+Which country is famous for the Pyramids of Giza?
+A) Greece
+B) Egypt
+C) Italy
+D) Mexico
+B
+What is the main ingredient in bread?
+A) Sugar
+B) Salt
+C) Flour
+D) Yeast
+C
+Which planet is closest to the Sun?
+A) Venus
+B) Earth
+C) Mercury
+D) Mars
+C
+What is the capital of Japan?
+A) Beijing
+B) Seoul
+C) Tokyo
+D) Bangkok
+C
+Which planet is known as the "Red Planet"?
+A) Venus
+B) Mars
+C) Jupiter
+D) Saturn
+B
+Who painted the Mona Lisa?
+A) Vincent van Gogh
+B) Pablo Picasso
+C) Leonardo da Vinci
+D) Michelangelo
+C
+What is the largest ocean on Earth?
+A) Atlantic Ocean
+B) Indian Ocean
+C) Arctic Ocean
+D) Pacific Ocean
+D
+Which country is home to the kangaroo?
+A) Brazil
+B) Australia
+C) South Africa
+D) Canada
+B
+What is the main language spoken in Brazil?
+A) Spanish
+B) Portuguese
+C) French
+D) English
+B
+Who wrote "Romeo and Juliet"?
+A) Charles Dickens
+B) William Shakespeare
+C) Jane Austen
+D) Mark Twain
+B
+What is the tallest mountain in the world?
+A) K2
+B) Mount Kilimanjaro
+C) Mount Everest
+D) Denali
+C
+Which gas do plants absorb for photosynthesis?
+A) Oxygen
+B) Carbon Dioxide
+C) Nitrogen
+D) Hydrogen
+B
+What is the currency of Germany?
+A) Euro
+B) Pound
+C) Dollar
+D) Yen
+A
+Which animal is known as the "King of the Jungle"?
+A) Elephant
+B) Lion
+C) Tiger
+D) Gorilla
+B
+What is the largest desert in the world?
+A) Sahara
+B) Gobi
+C) Arabian
+D) Antarctic
+A
+Which instrument has black and white keys?
+A) Violin
+B) Guitar
+C) Piano
+D) Flute
+C
+Who discovered gravity?
+A) Albert Einstein
+B) Isaac Newton
+C) Galileo Galilei
+D) Nikola Tesla
+B
+What is the main component of the Sun?
+A) Oxygen
+B) Hydrogen
+C) Helium
+D) Carbon
+B
+Which country is the largest by land area?
+A) China
+B) USA
+C) Canada
+D) Russia
+D
+What is the hardest natural substance on Earth?
+A) Gold
+B) Diamond
+C) Iron
+D) Quartz
+B
+Which fruit is known as the "king of fruits"?
+A) Apple
+B) Banana
+C) Mango
+D) Durian
+D
+How many continents are there?
+A) 5
+B) 6
+C) 7
+D) 8
+C
+What is the capital of Canada?
+A) Toronto
+B) Vancouver
+C) Ottawa
+D) Montreal
+C
+Which planet is closest to the Sun?
+A) Venus
+B) Mercury
+C) Earth
+D) Mars
+B
+Who is known as the father of computers?
+A) Thomas Edison
+B) Charles Babbage
+C) Albert Einstein
+D) Nikola Tesla
+B
+What is the largest mammal in the world?
+A) Elephant
+B) Blue Whale
+C) Giraffe
+D) Polar Bear
+B
+Which country invented pizza?
+A) France
+B) Italy
+C) USA
+D) Greece
+B
+What is the chemical symbol for gold?
+A) Go
+B) Gd
+C) Au
+D) Ag
+C
+Who wrote "Harry Potter"?
+A) J.R.R. Tolkien
+B) J.K. Rowling
+C) George R.R. Martin
+D) Stephen King
+B
+Which language has the most native speakers?
+A) English
+B) Spanish
+C) Hindi
+D) Mandarin
+D
+What is the fastest land animal?
+A) Lion
+B) Cheetah
+C) Horse
+D) Greyhound
+B
+Which country has the most pyramids?
+A) Egypt
+B) Mexico
+C) Sudan
+D) Peru
+C
+What is the largest organ in the human body?
+A) Heart
+B) Liver
+C) Skin
+D) Brain
+C
+Which famous scientist developed the theory of relativity?
+A) Isaac Newton
+B) Albert Einstein
+C) Stephen Hawking
+D) Galileo Galilei
+B
+What is the main ingredient in guacamole?
+A) Tomato
+B) Onion
+C) Avocado
+D) Pepper
+C
+Which country is known as the Land of the Rising Sun?
+A) China
+B) South Korea
+C) Japan
+D) Thailand
+C
+How many bones are in the adult human body?
+A) 206
+B) 300
+C) 150
+D) 250
+A
+Which animal is the national symbol of the USA?
+A) Eagle
+B) Lion
+C) Bear
+D) Wolf
+A
+What is the largest type of big cat?
+A) Lion
+B) Tiger
+C) Leopard
+D) Jaguar
+B
+Which famous river runs through Egypt?
+A) Amazon
+B) Nile
+C) Mississippi
+D) Yangtze
+B
+Who painted "The Starry Night"?
+A) Pablo Picasso
+B) Vincent van Gogh
+C) Claude Monet
+D) Salvador Dalí
+B
+What is the smallest country in the world?
+A) Monaco
+B) Maldives
+C) Vatican City
+D) San Marino
+C
