@@ -1,5 +1,4 @@
 # Jackfruit_C_Test_Provider
-# Jackfruit C Test Provider
 
 A command-line based quiz/test system written in C using file handling.
 This project simulates an exam portal with timed questions, scoring, and a leaderboard.
